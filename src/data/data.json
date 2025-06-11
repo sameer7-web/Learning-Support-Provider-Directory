@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Bright Minds",
+    "specialization": "Dyslexia Support",
+    "location": "Mumbai",
+    "rating": 4.5,
+    "shortDescription": "Helping kids with dyslexia.",
+    "longDescription": "Bright Minds offers customized plans for dyslexic learners.",
+    "contactEmail": "info@brightminds.com",
+    "phoneNumber": "9876543210"
+  },
+  {
+    "id": "2",
+    "name": "Focus Academy",
+    "specialization": "ADHD Coaching",
+    "location": "Delhi",
+    "rating": 4.7,
+    "shortDescription": "Coaching for focus and attention improvement.",
+    "longDescription": "Focus Academy provides structured attention improvement programs.",
+    "contactEmail": "contact@focusacademy.in",
+    "phoneNumber": "9123456780"
+  },
+  {
+    "id": "3",
+    "name": "Calm Learning Center",
+    "specialization": "Autism Therapy",
+    "location": "Pune",
+    "rating": 4.6,
+    "shortDescription": "Personalized therapy for autism.",
+    "longDescription": "Calm Learning Center offers expert autism therapy through individualized sessions.",
+    "contactEmail": "support@calmcenter.org",
+    "phoneNumber": "9823456712"
+  },
+  {
+    "id": "4",
+    "name": "Spark Education Hub",
+    "specialization": "Behavioral Therapy",
+    "location": "Bangalore",
+    "rating": 4.8,
+    "shortDescription": "Behavior improvement through custom plans.",
+    "longDescription": "Spark Hub uses behavioral science to improve attention, learning, and discipline.",
+    "contactEmail": "info@sparkhub.com",
+    "phoneNumber": "8881234567"
+  },
+  {
+    "id": "5",
+    "name": "NeuroEdge",
+    "specialization": "Cognitive Training",
+    "location": "Chennai",
+    "rating": 4.2,
+    "shortDescription": "Boost cognitive skills and memory.",
+    "longDescription": "NeuroEdge specializes in cognitive enhancement programs for school-age children.",
+    "contactEmail": "contact@neuroedge.in",
+    "phoneNumber": "9988776655"
+  },
+  {
+    "id": "6",
+    "name": "Insight Clinic",
+    "specialization": "Speech Therapy",
+    "location": "Hyderabad",
+    "rating": 4.3,
+    "shortDescription": "Speech and communication development.",
+    "longDescription": "Insight Clinic helps children improve speech, pronunciation, and verbal expression.",
+    "contactEmail": "hello@insightclinic.in",
+    "phoneNumber": "9871203456"
+  },
+  {
+    "id": "7",
+    "name": "ThinkWell",
+    "specialization": "Memory & Retention",
+    "location": "Kolkata",
+    "rating": 4.4,
+    "shortDescription": "Enhance memory with proven techniques.",
+    "longDescription": "ThinkWell offers scientifically-backed training to improve memory and retention for school students.",
+    "contactEmail": "team@thinkwell.com",
+    "phoneNumber": "7894561230"
+  }
+]
